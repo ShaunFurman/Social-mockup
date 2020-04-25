@@ -1,6 +1,6 @@
 .big-blue-header {
     height: 300px;
-    width: 80%;
+    width: 850px;
     background-color:#3578E5;
     margin: 0 auto;
 }
@@ -49,11 +49,9 @@ body
         position: relative;
         left: 150px;
         } 
-
-       
-                
+   
         .column1 {
-            width: 326px;
+            width: 312px;
             height: 400px;
             /* padding: 10px; */
             margin: 15px 5px 10px 5px;
@@ -168,7 +166,7 @@ body
           .column2 {
             float: right;
             position: relative;
-            width: 510px;
+            width: 528px;
             height: 400px;
             background-color: white;
             /* padding: 10px; */
@@ -191,21 +189,23 @@ body
 main {
     border: 1px dotted black;
     height:2000px;
-    width: 80%;
+    width: 850px;
     margin: 0 auto;
-    margin-top: 20px;
+    margin-top: 25px;
   
 }
     .column1 {
-        width: 300px;
+        width: 302px;
         height: 2000px;
         border:  5px dotted brown;
         float: left;
+        margin: 0 auto;
     }
     .column2 {
-        width: 400px;
+        width: 518px;
         height: 2000px;
-        border:  5px dotted green;
+        border:  5px dotted blue;
         float: right;
+     margin: 0 auto;
     }
 
